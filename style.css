@@ -1,0 +1,41 @@
+@font-face {
+    font-family:themillion;
+    src: url(font2.ttf); 
+
+}
+
+@font-face {
+    font-family:demon;
+    src: url(font1.ttf); 
+
+}
+
+#DemonSquad {
+    font-family: demon;
+    padding-left: 139mm;
+    height: 6cm;
+    position: center;
+
+}
+
+#cont {
+    font-family: demon;
+    padding-left: 135mm;
+    font-size: 55px;
+
+}
+
+a {
+    font-family: demon;
+    padding-left: 150mm;
+    font-size: 30px;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
